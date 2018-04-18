@@ -1,0 +1,3 @@
+[submodule "jobs-sebastien-grans"]
+	path = symfony
+	url = git@gitlab.com:sensiolabs/tech-team/jobs-sebastien-grans.git
